@@ -1,4 +1,4 @@
-# MediPredict AI
+<img width="1913" height="925" alt="Home 1" src="https://github.com/user-attachments/assets/7b5b518a-0827-4acf-b4fb-c7c5584a1cdf" /># MediPredict AI
 
 MediPredict AI is an educational, local-first multi-disease machine-learning demonstration built for the CodeAlpha Machine Learning Internship, Task 4. It is not a medical device, clinical decision-support system, or diagnostic service.
 
@@ -74,6 +74,50 @@ These small-dataset estimates are not clinical performance claims. The diabetes 
 - Browser smoke checks: dashboard, inference, metrics, dataset filtering, and narrow viewport were exercised.
 - PDF endpoint returned a valid PDF response; automated browser download-event capture was unavailable in the integrated harness.
 - `npm install` reports 0 vulnerabilities after the Tailwind 4 migration.
+  
+## Project Screenshots
+
+### 1.Dashboard
+![Home]
+<img width="1913" height="925" alt="Home 1" src="https://github.com/user-attachments/assets/370aded5-5dd7-4475-9238-3eba1b0883a5" />
+<img width="1917" height="913" alt="Home 2" src="https://github.com/user-attachments/assets/f4a346be-6026-49e6-9acf-bec7ea931239" />
+<img width="1917" height="921" alt="Home 3" src="https://github.com/user-attachments/assets/1fd1a5bf-31d9-4ef3-889c-e56b35542acc" />
+<img width="1917" height="921" alt="Home 4" src="https://github.com/user-attachments/assets/3494699a-5aee-4425-b846-d487f02161f8" />
+<img width="1917" height="920" alt="Home 5" src="https://github.com/user-attachments/assets/0718b11d-6627-4681-9087-b4553a59a2bf" />
+<img width="1912" height="912" alt="Home 6" src="https://github.com/user-attachments/assets/8b1a3dd2-82fb-4149-a93f-f873ae413f68" />
+<img width="1917" height="906" alt="Home 7" src="https://github.com/user-attachments/assets/218a06b5-accd-485e-b916-55454a6aaf06" />
+<img width="1913" height="917" alt="Home 8" src="https://github.com/user-attachments/assets/34cb907b-2dc1-4647-9c96-70cabf6bfbd9" />
+<img width="1882" height="911" alt="Home dr" src="https://github.com/user-attachments/assets/db7f2557-6c21-4a42-9691-34962b3a9cc4" />
+
+### 2.Downloading Report
+![Report]
+<img width="502" height="731" alt="Report pdf" src="https://github.com/user-attachments/assets/2f4c25e1-485b-46a5-9ead-bd2c05c03dcb" />
+
+### 3.Health Insights & Models
+![Model Evaluation]
+<img width="1907" height="912" alt="Health Model 1" src="https://github.com/user-attachments/assets/26cba2a4-3fd5-4c51-b330-4b832f2ba829" />
+<img width="1915" height="912" alt="Health Model 2" src="https://github.com/user-attachments/assets/616bcea3-9b37-4b4c-ba9c-c46ea78962b7" />
+<img width="1917" height="915" alt="Health Model 3" src="https://github.com/user-attachments/assets/d201f705-48d1-4f4e-8fb5-f6372da0bdbf" />
+<img width="1917" height="902" alt="Health Model dr" src="https://github.com/user-attachments/assets/72b5d303-3c52-4a39-89d8-92c1adcf5af5" />
+
+### 4.Dataset Explorer
+![Dataset]
+<img width="1917" height="913" alt="Data 1" src="https://github.com/user-attachments/assets/229b431a-802d-4f06-a294-4fd58afac8ea" />
+<img width="1906" height="917" alt="Data 2" src="https://github.com/user-attachments/assets/a453d98a-99b0-4ba6-888d-9099621f1af4" />
+<img width="1917" height="915" alt="Data 3" src="https://github.com/user-attachments/assets/c37806da-4cc7-4c63-901a-ab7d91f3d450" />
+<img width="1917" height="912" alt="Data dr" src="https://github.com/user-attachments/assets/d9444fe0-2847-4810-ab71-ce7cfc50f337" />
+
+### 5.History & Records
+![Prediction History]
+<img width="1917" height="910" alt="History 1" src="https://github.com/user-attachments/assets/fe8da2dd-3a57-4247-a7c9-249554cc595b" />
+<img width="1917" height="916" alt="History 2" src="https://github.com/user-attachments/assets/b7f9cbc6-0945-4ab2-ad9c-61f6687154b7" />
+<img width="1913" height="903" alt="History 3" src="https://github.com/user-attachments/assets/38cfb746-87c9-4e7a-b30d-27d825ac03cb" />
+<img width="1917" height="905" alt="History dr" src="https://github.com/user-attachments/assets/e5e8e4a2-be4c-436e-bbad-4e2c64f38857" />
+
+### 6.Clinical Ethics
+![Clinical Information]
+<img width="1917" height="910" alt="Clinical" src="https://github.com/user-attachments/assets/a529584e-e7db-4de1-a533-da063f29b302" />
+<img width="1917" height="916" alt="Clinical dr" src="https://github.com/user-attachments/assets/4a5ee198-f7fa-4f04-8055-0cd5bdb81471" />
 
 ## Screenshot checklist
 
